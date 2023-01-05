@@ -1,3 +1,9 @@
+## Version 0.2.0
+
+### New features
+- New performance_table() function to compute a table with different measures of the performance
+
+
 ## Version 0.1.0
 
 ### New features
